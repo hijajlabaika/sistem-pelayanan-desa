@@ -1,0 +1,97 @@
+/* halaman index */
+nav {
+    background-color: green;
+}
+
+.nav-link {
+    font-family: 'Lobster', cursive;
+}
+
+.jumbotron {
+    padding: 2rem 1rem;
+    margin-top: 110px;
+    height: 670px;
+    background-image: url('../img/bg3.jpeg');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+.jumbotron h1 {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.jumbotron h5 {
+    font-size: 10px;
+    font-family: 'Lobster', cursive;
+}
+
+.nav-item {
+    margin-left: 50px;
+    font-size: 20px;
+}
+
+.jadwal {
+    padding-top: 3rem;
+}
+
+.jadwal h1 {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.informasi {
+    padding-top: 3rem;
+    background-color: #b3ffb3;
+}
+
+.informasi h1 {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+.informasi p {
+    font-family: 'Lobster', cursive;
+}
+
+.lokasi h1 {
+    font-size: 50px;
+    font-family: 'Lobster', cursive;
+}
+
+footer {
+    background-color: green;
+}
+
+/* akhir halaman index */
+
+/* halaman login masyarakat */
+.card img {
+    padding-top: 8rem;
+}
+
+.card-title {
+    font-family: 'Lobster', cursive;
+}
+
+.bg {
+    background-image: url('../img/bg3.jpeg');
+}
+
+.kopsurat {
+    width: 980px;
+    margin: 0 auto;
+    background-color: #fff;
+    height: 500px;
+    padding: 20px;
+}
+
+table {
+    border-bottom: 5px solid #000;
+    padding: 2px;
+}
+
+.tengah {
+    text-align: center;
+    line-height: 5px;
+}
